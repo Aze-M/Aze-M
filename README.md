@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aze-M
-- 👀 I’m interested in Web-Development and Javascript!
+- 👀 I’m interested in Web-Development and Javascript as well as Rust and other Languages.
 - 🌱 I’m currently learning as many frameworks as I can until I am the Framework-master!
 - 💞️ I’m looking to collaborate on just about anything.
 - 📫 How to reach me: Mail me aze.edm.101@gmail.com! Write me on Twitter!
