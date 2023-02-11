@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Aze-M
-- 👀 I’m interested in Web-Development and Javascript as well as Rust and other Languages.
-- 🌱 I’m currently wondering why people us JS backends.
-- 💞️ I’m looking to collaborate on just about anything.
-- 📫 How to reach me: Mail me aze.edm.101@gmail.com! Write me on Twitter!
+As a software developer, I am proficient in C++, C#, Rust, JavaScript and TypeScript. I have a strong drive to learn and use my skills to tackle challenging projects. I am eager to work in a diverse environment and continuously expand my knowledge. My goal is to deliver efficient and effective solutions which are memory and thread safe.
 
 <!---
 Aze-M/Aze-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
